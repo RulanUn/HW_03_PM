@@ -1,0 +1,7 @@
+C:\Users\Rus51\OneDrive\Рабочий стол\SP\Exam\Exam_SP\bin\Debug\Exam_SP.exe.config
+C:\Users\Rus51\OneDrive\Рабочий стол\SP\Exam\Exam_SP\bin\Debug\Exam_SP.exe
+C:\Users\Rus51\OneDrive\Рабочий стол\SP\Exam\Exam_SP\bin\Debug\Exam_SP.pdb
+C:\Users\Rus51\OneDrive\Рабочий стол\SP\Exam\Exam_SP\obj\Debug\Exam_SP.csprojAssemblyReference.cache
+C:\Users\Rus51\OneDrive\Рабочий стол\SP\Exam\Exam_SP\obj\Debug\Exam_SP.csproj.CoreCompileInputs.cache
+C:\Users\Rus51\OneDrive\Рабочий стол\SP\Exam\Exam_SP\obj\Debug\Exam_SP.exe
+C:\Users\Rus51\OneDrive\Рабочий стол\SP\Exam\Exam_SP\obj\Debug\Exam_SP.pdb
